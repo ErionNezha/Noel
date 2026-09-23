@@ -31,7 +31,7 @@ python3 -m http.server 8000
 
 ## Licenca
 
-MIT — shihni [LICENSE](LICENSE).
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha — shihni [LICENSE](LICENSE).
 
 ---
 
@@ -66,7 +66,7 @@ python3 -m http.server 8000
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+All rights reserved © 2026 Erion Nezha — see [LICENSE](LICENSE).
 
 ## Author
 
